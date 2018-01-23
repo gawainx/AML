@@ -1,0 +1,6 @@
+*.log
+*.h5
+*.txt
+.idea/
+.vscode/
+MNIST_data/
